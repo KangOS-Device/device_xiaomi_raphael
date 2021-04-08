@@ -74,7 +74,7 @@ persist.vendor.ims.disableQXDMLogs=1
 
 # Iorap
 iorapd.perfetto.enable=true 
-iorapd.readahead.enable=true
+iorapd.readahead.enable=false
 
 # LMKD
 ro.config.low_ram=false
